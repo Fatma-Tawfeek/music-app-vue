@@ -1,5 +1,9 @@
 @import 'tailwindcss';
 
+.container {
+  max-width: 90%;
+}
+
 a {
   transition: all 0.15s ease;
 }
